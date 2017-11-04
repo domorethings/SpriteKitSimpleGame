@@ -3,7 +3,7 @@
 //  SpriteKitSimpleGame
 //
 //  Created by Eric Yang on 3/15/17.
-//  Copyright © 2017 Eric Liu Yang. All rights reserved.
+//  Copyright © 2017 Eric Yang. All rights reserved.
 //
 
 import Foundation
