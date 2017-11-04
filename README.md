@@ -1,2 +1,2 @@
 # SpriteKitSimpleGame
-Ray Wenderlich's Sprite Simple Game with Modifications
+- This is a 2D shooter gamer using Swift's SpriteKit
